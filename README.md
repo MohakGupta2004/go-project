@@ -12,4 +12,4 @@ Solution (algo):
     1. switch case for every function
     2. create a globalize map.
     3. add will add the args[2] in the globalized map and return all the maps which are done or not. 
-    
+    4. Have to save it somewhere other than the main program struct 
